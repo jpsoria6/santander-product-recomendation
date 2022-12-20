@@ -1,0 +1,1 @@
+El indice de extranjeros indica si el pais de nacimiento del cliente es diferente al del banco, en este caso podemos observar que la mayoria de los clientes nacieron en el mismo pais de residencia del banco, debemos evaluar si el volumen de datos que si nacio en un pais diferente es lo suficientemente significativo como para descartar esta caracteristica

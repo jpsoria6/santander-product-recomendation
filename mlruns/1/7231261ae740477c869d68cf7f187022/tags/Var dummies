@@ -1,0 +1,4 @@
+Index(['004', '007', '013', '025', 'K00', 'KAA', 'KAB', 'KAC', 'KAD', 'KAE',
+       ...
+       'KHK', 'KHL', 'KHM', 'KHN', 'KHO', 'KHP', 'KHQ', 'KHR', 'KHS', 'RED'],
+      dtype='object', length=162)

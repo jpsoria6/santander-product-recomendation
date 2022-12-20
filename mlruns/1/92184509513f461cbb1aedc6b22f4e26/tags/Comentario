@@ -1,0 +1,1 @@
+El indice de residenciam indica si el pais de residencia del cliente es el mismo que el del banco. Para este caso en particular, podemos observar que casi la totalidad de los clientes residen en el pais del banco, esta variable es candidata a ser eliminada, ya que es casi determinista
