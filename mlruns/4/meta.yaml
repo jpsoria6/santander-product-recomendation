@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/Administrador/Desktop/DataMining/segundo_parcial/mlruns/4
+creation_time: 1671886186886
+experiment_id: '4'
+last_update_time: 1671886186886
+lifecycle_stage: active
+name: testing_HistGradientBoostingClassifier_entire_dataset
